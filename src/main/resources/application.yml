@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+app:
+  parse-listener:
+    enabled: false
